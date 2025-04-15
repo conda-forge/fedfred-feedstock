@@ -1,7 +1,7 @@
 About fedfred-feedstock
 =======================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/feedstock-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/fedfred-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/nikhilxsunder/fedfred
 
@@ -28,8 +28,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=25230&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fedfred-feedstock?branchName=main">
       </a>
     </td>
   </tr>
