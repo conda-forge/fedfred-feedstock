@@ -9,9 +9,9 @@ Package license: AGPL-3.0-or-later
 
 Summary: A feature-rich python package for interacting with the Federal Reserve Bank of St. Louis Economic Database (FRED)
 
-Development: https://github.com/nikhilxsunder/fedfred
+Development: https://pypi.io/packages/source/f/fedfred/fedfred-2.0.9.tar.gz
 
-Documentation: https://nikhilxsunder.github.io/fedfred/
+Documentation: https://pypi.io/packages/source/f/fedfred/fedfred-2.0.9.tar.gz
 
 FedFred is a Python package for interacting with the Federal Reserve Bank of St. Louis Economic Database (FRED API).
 It provides a feature-rich interface with:
