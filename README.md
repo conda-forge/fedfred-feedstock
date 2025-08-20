@@ -1,7 +1,7 @@
 About fedfred-feedstock
 =======================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/fedfred-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/feedstock-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/nikhilxsunder/fedfred
 
@@ -9,9 +9,9 @@ Package license: AGPL-3.0-or-later
 
 Summary: A feature-rich python package for interacting with the Federal Reserve Bank of St. Louis Economic Database (FRED)
 
-Development: https://github.com/nikhilxsunder/fedfred
+Development: https://pypi.io/packages/source/f/fedfred/fedfred-2.1.3.tar.gz
 
-Documentation: https://nikhilxsunder.github.io/fedfred/
+Documentation: https://pypi.io/packages/source/f/fedfred/fedfred-2.1.3.tar.gz
 
 FedFred is a Python package for interacting with the Federal Reserve Bank of St. Louis Economic Database (FRED API).
 It provides a feature-rich interface with:
@@ -28,8 +28,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=25230&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/fedfred-feedstock?branchName=main">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/feedstock-feedstock?branchName=main">
       </a>
     </td>
   </tr>
