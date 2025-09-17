@@ -13,6 +13,7 @@ Development: https://pypi.io/packages/source/f/fedfred/fedfred-2.1.4.tar.gz
 
 Documentation: https://pypi.io/packages/source/f/fedfred/fedfred-2.1.4.tar.gz
 
+
 FedFred is a Python package for interacting with the Federal Reserve Bank of St. Louis Economic Database (FRED API).
 It provides a feature-rich interface with:
 - Pandas/Polars DataFrame outputs
