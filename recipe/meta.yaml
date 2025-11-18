@@ -39,8 +39,8 @@ test:
 
 about:
   home: "https://github.com/nikhilxsunder/fedfred"
-  doc_url: "https://pypi.io/packages/source/f/fedfred/fedfred-3.0.0.tar.gz"
-  dev_url: "https://pypi.io/packages/source/f/fedfred/fedfred-3.0.0.tar.gz"
+  doc_url: "https://nikhilxsunder.github.io/fedfred/"
+  dev_url: "https://github.com/nikhilxsunder/fedfred"
   license: MIT
   license_family: MIT
   license_file: LICENSE
